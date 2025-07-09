@@ -69,8 +69,9 @@ Creative use of Python for both fun and automation.
 
 ## 📈 GitHub Stats
 
-![Lourina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourinaemil&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourinaemil&layout=compact)
+![Lourina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourina222&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourina222&layout=compact)
 
 ---
 
