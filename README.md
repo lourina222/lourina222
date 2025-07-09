@@ -2,7 +2,7 @@
 
 🎓 Computer Science | 🛡️ Cybersecurity Enthusiast | 📊 Data Analyst  
 🌍 Cairo University (3.78 GPA) | Semester Abroad @ University of Louisville (3.94 GPA)  
-🌟 USAID Scholar | Cyber Advance Trainee @ Correlation One | Big Data Intern @ Orange
+🌟 USAID Scholar | Cyber Advance Trainee @ Correlation One | Business Intelligence @ ITI | Big Data Analytics @ Orange Digital Center | Data Scientist @ DEPI   
 
 ---
 
